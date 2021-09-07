@@ -4,7 +4,7 @@
 <h1 align="center">Oi 👋, meu nome é Andreas</h1>
 <h3 align="center">Um simples desenvolvedor de Bots do Discord</h3>
 
-- 🔭 Eu atualmente estou trabalhando no [BarneyBot](https://github.com/andreasgrum00/barneybot)
+- 🔭 Eu atualmente estou trabalhando no [BarneyBot](https://github.com/andreasgrum00/barneybot) e na [Bisa Fugitiva](https://github.com/andreasgrum00/bisafugitiva)
 
 - 🌱 Estou atualmente aprendendo **JavaScript e Python**
 
