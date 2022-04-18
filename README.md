@@ -1,7 +1,7 @@
 
 ![ANdreas Grum](https://user-images.githubusercontent.com/55033182/121040502-54602980-c788-11eb-9a42-a931beb77de7.gif)
 
-<h1 align="center">Oi 👋, meu nome é Andreas</h1>
+<h1 align="center">Oi , meu nome é Andreas 👋</h1>
 <h3 align="center">Um simples desenvolvedor de Bots do Discord</h3>
 
 - 🔭 Eu atualmente estou trabalhando no [BarneyBot](https://github.com/andreasgrum00/barneybot) e na [Bisa Fugitiva](https://github.com/andreasgrum00/bisafugitiva)
