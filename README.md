@@ -10,7 +10,7 @@
 
 - 📫 Contato **andreasgrum00@gmail.com**
 
-- ⚡ Fun fact **Eu comecei a mexer em notebooks/computadores com 4 anos. Pra ter noção, notebook ainda se carregava na parte de trás**
+- ⚡ Fun Fact: **Eu comecei a mexer em notebooks/computadores com 4 anos. Notebooks ainda se carregavan na parte de trás naquela "época" kakakak**
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
