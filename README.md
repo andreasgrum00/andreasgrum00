@@ -4,13 +4,13 @@
 <h1 align="center">Oi , meu nome é Andreas 👋</h1>
 <h3 align="center">Um simples desenvolvedor de Bots do Discord</h3>
 
-- 🔭 Eu atualmente estou trabalhando no [BarneyBot](https://github.com/andreasgrum00/barneybot) e na [Bisa Fugitiva](https://github.com/andreasgrum00/bisafugitiva)
+- 🔭 No momento eu não estou trabalhando em nenhum projeto.
 
 - 🌱 Estou atualmente aprendendo **JavaScript e Python**
 
 - 📫 Contato **andreasgrum00@gmail.com**
 
-- ⚡ Fun Fact: **Eu comecei a mexer em notebooks/computadores com 4 anos. Notebooks ainda se carregavan na parte de trás naquela "época" kakakak**
+- ⚡ Fun Fact: **Eu comecei a mexer em notebooks/computadores com 4 anos. Notebooks ainda se carregavam na parte de trás naqueles anos!**
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
