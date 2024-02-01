@@ -28,7 +28,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/andreasgrum00/andreasgrum00/assets/55033182/e600e33c-6a6e-4ee6-8e32-d0845a7a8931" alt="Tailwind CSS" width="40" height="30"/> </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/andreasgrum00/andreasgrum00/assets/55033182/d64e2cce-ab60-4261-95bf-234143065b3e" alt="Bootstrap" width="50" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/andreasgrum00/andreasgrum00/assets/55033182/dd0cee55-0c0e-44ee-a3fc-e2a3a5a6ac73)" width="50" height="40" /> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/andreasgrum00/andreasgrum00/assets/55033182/dd0cee55-0c0e-44ee-a3fc-e2a3a5a6ac73" width="35" height="40" /> </a>
 
 </p>
 
