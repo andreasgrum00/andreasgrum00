@@ -6,7 +6,7 @@
 
 - 🔭 Estou atualmente trabalhando **no meu portfólio**
 
-- 🌱 Estou atualmente aprendendo **HTML, CSS e JS**
+- 🌱 Estou atualmente aprendendo **HTML, CSS, JS e C#**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [andreasgrum00.github.io](andreasgrum00.github.io)
 
