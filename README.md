@@ -4,13 +4,11 @@
 <h1 align="center">Oi, sou Andreas! 👋</h1>
 <h3 align="center">Bem-vindo(a) ao meu GitHub!</h3>
 
-- 🔭 Estou atualmente trabalhando **no meu portfólio**
-
-- 🌱 Estou atualmente aprendendo **HTML, CSS, Python, JS e C#**
+- 🌱 Estou atualmente aprendendo **HTML, CSS, Python, JS e C#, C++, React e NodeJS**
 
 - 📫 Contato **andreasgrum00@gmail.com**
 
-<h3 align="left">Se conecte comigo:</h3>
+<h3 align="left">Contato:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andreas-grum-438b70214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andreas-grum-438b70214" height="30" width="40" /></a>
 <a href="https://instagram.com/grummzera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andreasgrumm00" height="30" width="40" /></a>
