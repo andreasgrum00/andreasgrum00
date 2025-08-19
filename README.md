@@ -1,30 +1,35 @@
 
-![ANdreas Grum](https://user-images.githubusercontent.com/55033182/121040502-54602980-c788-11eb-9a42-a931beb77de7.gif)
+![Andreas Grum](https://user-images.githubusercontent.com/55033182/121040502-54602980-c788-11eb-9a42-a931beb77de7.gif)
 
-<h1 align="center">Oi, sou Andreas! 👋</h1>
-<h3 align="center">Bem-vindo(a) ao meu GitHub!</h3>
+<h1 align="center">Hey, I'm Andreas! 👋</h1>
+<h3 align="center">Welcome to my GitHub!</h3>
 
-- 🌱 Estou atualmente aprendendo **HTML, CSS, Python, JS e C#, C++, React e NodeJS**
+- 🌱 I'm currently learning **HTML, CSS, Python, JS e C#, C++, React e NodeJS**
 
-- 📫 Contato **andreasgrum00@gmail.com**
-
-<h3 align="left">Contato:</h3>
+<h3 align="left">Contact:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/andreas-grum-438b70214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andreas-grum-438b70214" height="30" width="40" /></a>
-<a href="https://instagram.com/grummzera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andreasgrumm00" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/andreas-grum-438b70214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andreas-grum-438b70214" height="30" width="40" /></a>
+  <a href="mailto:andreasgrumichedev@gmail.com"><img align="center" src="https://github.com/user-attachments/assets/53ac641e-00c1-4adf-bc5d-8b6a274fc1c7" alt="andreasgrumichedev@gmail.com" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/1e354e11-c705-43fa-8108-c946f961482c" alt="ReactJS" width="40" height="40" /></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/andreasgrum00/andreasgrum00/assets/55033182/e600e33c-6a6e-4ee6-8e32-d0845a7a8931" alt="Tailwind CSS" width="40" height="30"/> </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/andreasgrum00/andreasgrum00/assets/55033182/d64e2cce-ab60-4261-95bf-234143065b3e" alt="Bootstrap" width="50" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/andreasgrum00/andreasgrum00/assets/55033182/dd0cee55-0c0e-44ee-a3fc-e2a3a5a6ac73" width="35" height="40" /> </a>
-
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreasgrum00&show_icons=true&theme=dracula&locale=en&layout=compact" alt="andreasgrum00" /></p>
