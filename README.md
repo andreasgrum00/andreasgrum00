@@ -8,7 +8,7 @@
 
 <h3 align="left">Contact:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/andreasgrumiche/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andreas-grum-438b70214" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/andreasgrumiche/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andreas-grum-438b70214" height="30" width="40" /></a>
   <a href="mailto:andreasgrumichedev@gmail.com"><img align="center" src="https://github.com/user-attachments/assets/53ac641e-00c1-4adf-bc5d-8b6a274fc1c7" alt="andreasgrumichedev@gmail.com" height="30" width="40" /></a>
 </p>
 
